@@ -1,0 +1,4 @@
+q2. what will happen is that the image will be cut into 4 pieces
+and each piece will be in a different part of the picture. this
+happens because we did now shift the original picture center,
+so its stayed at point [0,0].

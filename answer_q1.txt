@@ -1,0 +1,3 @@
+q1. Because convolution with vector [1, 0, -1] gives us only an 
+approximation of a derivative, while the fourier way gives us an 
+actual derivative.
